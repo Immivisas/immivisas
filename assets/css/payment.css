@@ -1,0 +1,58 @@
+.paymentForm {
+  width: 350px;
+  position: relative;
+  margin-bottom: 50px;
+}
+.paymentForm input {
+  border: 1px solid #ccc;
+  padding: 5px 5px;
+  width: 250px;
+  border-radius: 10px;
+}
+.paymentForm input[type="submit"] {
+  padding: 5px 25px;
+  margin-left: 85px;
+  background: #161e60;
+  color: #fff;
+  font-size: 18px;
+}
+.payforminp,
+.payforminp1,
+.payformin2 {
+  display: block;
+  width: 350px;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color ease-in-out 0.15s,
+    -webkit-box-shadow ease-in-out 0.15s;
+  -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+.payforminp1 {
+  width: 100px !important;
+}
+.payformin2 {
+}
+.paypalform input[type="text"] {
+  width: 100%;
+}
+
+.logocards {
+  width: 300px !important;
+  /* margin: 0 auto !important;
+  margin-bottom: 50px !important;
+  margin-top: 150px !important; */
+}
+.logocards img {
+  height: 80px !important;
+  display: inline-block;
+}

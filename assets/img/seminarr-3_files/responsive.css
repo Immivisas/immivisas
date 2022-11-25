@@ -1,0 +1,51 @@
+
+.mrgleft-30{ margin-left:-30px;}
+ .mrgright-30{margin-right:-30px}
+.selectnav{ display:none;}
+.righttext{ float:right;}
+
+.blogfull ul, .blogfull ol{ margin-left:15px;}
+
+@media only screen and (max-width: 1000px) {
+
+.menu li a {
+    margin-left: 28px;}
+}
+
+@media only screen and (max-width: 768px) {
+.mrgleft-30{ margin-left:-20px !important;}
+ .mrgright-30{margin-right:-20px !important;}
+ .topright{ margin-top:-80px;}
+ .cntrow {height: initial;}
+ .prev,.next{ display:none;}
+ 
+ p {text-align:justify;
+}
+.thubImgBlog{margin-bottom:10px}
+
+
+
+}
+@media only screen and (max-width: 620px) {
+.menu{ display:none;}
+.menubox{ background: #161E60;padding: 3px 10px;margin-left: -30px;margin-right: -10px;}
+.selectnav{ display: block;width: 100%;padding: 6px 7px;background-color: #fff;border: 0px;border-radius: 10px;}
+.righttext{ float:none !important;}
+.breadcrumbs, .breadcrumb{ width:100% !important; text-align:center !important; float:none;}
+#bwg_container1_2 #bwg_container2_2 .bwg_album_extended_text_div_2, #bwg_container1_2 #bwg_container2_2 .bwg_album_extended_thumb_div_2{ display:block;}
+
+.blogfull img{ width:100%; height:auto;}
+
+
+}
+
+@media only screen and (max-width: 480px) {
+.topsocialicon {margin-top: -40px;}
+.tophone {padding-top: 20px; margin-right:0px;}
+
+}
+
+@media only screen and (max-width: 320px) {
+
+
+}

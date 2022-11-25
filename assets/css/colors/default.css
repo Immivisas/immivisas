@@ -1,0 +1,634 @@
+
+li.book-now-btn a.book-now {
+    background-color: #ecbb08 !important;
+    color: #000 !important;
+    border-color: black !important;
+}
+/*=========================================
+    Primary Color
+=========================================*/
+
+.preloader {
+    background: #005dad;
+}
+
+/* 00. Theme Reset Css */
+.section-header h2 {
+    color: #005dad;
+}
+
+
+
+
+.boxed-btn {
+    background: #005dad;    
+}
+
+.boxed-btn:hover {
+    color: #005dad;    
+}
+
+/* 02. Header Top */
+#header-top {
+    background: #005dad;
+}
+
+/* 03. Custom Navigation */
+.main-menu ul li.active a,
+.main-menu ul li a:hover {
+    color: #005dad !important;
+}
+
+.main-menu ul li ul li:hover:before {
+    color: #005dad;
+}
+
+.main-menu ul li.active ul li a:hover { 
+    color: #005dad !important;
+}
+
+.main-menu ul li a:after,
+.main-menu ul li a:before {
+    border-color: #005dad !important;
+}
+
+
+.mean-container a.meanmenu-reveal {
+    border-color: #005dad;
+    color: #005dad;
+}
+
+.mean-container a.meanmenu-reveal span {
+    background-color: #005dad;
+}
+
+.mean-container .mean-nav {
+    background: #005dad;    
+}
+
+.search-button a {
+    color: #005dad;
+}
+
+a.book-now {
+	border-color:#005dad;
+	color:#005dad;
+}
+
+a.book-now:hover {
+    background: #005dad;
+}
+
+.search-button a.nav-link {
+    color: #005dad;
+}
+
+#search {
+    background: #005dad;    
+}
+
+.badge {
+    background: #005dad;    
+}
+
+.cart-icon i {
+    color: #005dad;
+}
+
+ul.cart-list>li>p>a {
+    color: #005dad;
+}
+
+ul.cart-list>li.total>.btn-cart {
+    border-color: #005dad;
+    background: #005dad;
+}
+
+ul.cart-list>li.total>.btn-cart:hover {
+    color: #005dad;
+}
+
+/* Header slider */
+.header-slider .owl-next,
+.header-slider .owl-prev {
+    color: #005dad;    
+}
+
+/* 05. Features */
+
+.features-list-item .icon i {
+    color: #005dad;
+}
+
+.view-more {
+    color: #005dad;
+}
+
+/* 06. Portfolio */
+.sorting-btn {
+    border-bottom-color: #005dad !important;
+}
+
+.sorting-btn li a.active {
+    color: #005dad;
+}
+
+.portfolio-masonary figure:hover figcaption  {
+    background: #005dad;
+}
+
+/* 07. Features */
+.features-item:before {    
+    background: #005dad;
+}
+
+.features-item:hover i {
+    color: #005dad;
+}
+
+/* 08. Services */
+.service-icon i {
+    color: #005dad;
+}
+
+.services-item .service-icon:after {
+    background: #005dad;    
+}
+
+.services-item:hover h4 {
+    color: #005dad;
+}
+
+/* 10. Fun Fact*/
+#fun-fact i {
+    color: #005dad;
+}
+
+.member-social li a {
+    color: #005dad;
+}
+
+.member-title:after {
+    background: #005dad;    
+}
+
+.member-title:before {
+    border-bottom-color: #005dad !important;
+}
+
+.team-member:hover .member-title h4 {
+    color: #005dad;
+}
+
+.inner-bio  {
+    background-color: #005dad;
+}
+
+/* Testimonial */
+#testimonial .owl-dot.active {
+    background: #005dad !important;
+}
+
+.single-testimonial h4 {
+    color: #005dad;
+}
+
+.single-testimonial h4:after {
+    background: #005dad;    
+}
+
+
+/* Pricing */
+#pricing .features li i {
+    color: #005dad;
+}
+
+/* Recent Blog */
+#recent-blog .post-thumbnail:after {
+    background: #005dad;    
+}
+
+#recent-blog .blog-post:hover .read-more-link,
+.blog-post:hover .post-content .post-title a {
+    color: #005dad;
+}
+
+/* Contact Us*/
+.contact-us-info h3:after {
+    background: #005dad;    
+}
+
+.live-chat.boxed-btn:hover {
+    background: #005dad;
+    border-color: #005dad;
+}
+
+.get-in-touch h3 {
+    color: #005dad;
+}
+
+.get-in-touch input,
+.get-in-touch textarea {
+    border-color: #005dad;
+}
+
+.get-in-touch .form-control:focus {
+    border-bottom-color: #005dad !important;
+}
+
+#footer-copyright {
+    background: #005dad;
+}
+
+.scrollup {
+    background-color: #005dad;
+    border-color: #005dad;
+
+}
+
+.scrollup:hover {
+    color: #005dad;
+    border-color: #005dad;
+}
+
+/*------------------------
+    About US page 
+ -------------------------*/
+.breadcrumb-nav li a {
+    color: #005dad;
+}
+
+#about-us .section-header:before {
+    background: #005dad;
+}
+
+.progress-bar {
+    background: #005dad;
+}
+
+a.view-details:hover {
+    color: #005dad;
+}
+
+
+/*------------------------
+    Service page 
+-------------------------*/
+.servicepage-item .service-icon i {
+    color: #005dad;
+}
+
+.servicepage-item a {
+    color: #005dad;
+}
+
+/*------------------------
+    Portfolio
+-------------------------*/
+
+.portfolio-item:hover .content h4,
+.portfolio-item:hover .content a {
+    color: #005dad;
+}
+
+.portfolio-item:hover figcaption {
+    background: #005dad;
+}
+
+.pagination li.page-item.more-page a.page-link,
+.pagination li.page-item.active a.page-link,
+.pagination a.page-link:hover {
+    background: #005dad;
+}
+
+.single-exclusive:hover h5,
+.single-exclusive:hover i {
+    color: #005dad;
+}
+
+#exclusive .owl-dot.active {
+    background: #005dad;
+}
+
+/* Gallery */
+.gallery-popup:hover {
+    color: #005dad;
+}
+
+.load-btn {    
+    background: #005dad;
+}
+
+/*------------------------
+    Blog
+-------------------------*/
+.blog-post:hover h4.post-title a {
+    color: #005dad !important;
+}
+
+.post-content .continue-reading:hover {
+    color: #005dad !important;
+}
+
+#blog-content ul.meta-info li:hover i,
+#blog-content ul.meta-info li a:hover {
+    color: #005dad;
+}
+
+.blog-post .post-thumb {
+    background: #005dad;    
+}
+
+.post-new-comment input,
+.post-new-comment textarea {
+    border-color: #005dad;
+}
+
+.single-blog-area ul.share-icon li a:hover {
+    color: #005dad;
+}
+
+/*------------------------
+    Contact US
+-------------------------*/
+.office .icon {
+    color: #005dad;
+}
+
+ul.contact-social li a {
+    color: #005dad;
+}
+
+/* Widget Color */
+
+.widget_about a:hover {
+    color: #005dad;
+}
+
+.widget_pages ul li a:hover {
+    color: #005dad;
+}
+
+.widget-search input[type=button] {
+    background: #005dad;
+}
+
+.widget-categories ul li a:hover {
+    color: #005dad;
+}
+
+.recent-post h6:hover {
+    color: #005dad;
+}
+
+ul.recent-meta-info li a:hover {
+    color: #005dad;
+}
+
+.days li .active {
+    color: #005dad;
+    border-color: #005dad;
+}
+
+.widget-newsletter .subscribe {
+    color: #005dad;
+    border-color: #005dad;
+}
+
+.widget-newsletter .subscribe:hover {
+    background: #005dad;
+}
+
+
+ul.widget-social li a:hover {
+    color: #005dad;
+}
+
+ul.tags li a:hover {    
+    background: #005dad;
+}
+
+
+/*=========================================
+    Secondary Color
+=========================================*/
+/* Theme Reset css */
+p {
+    color: #003869;
+}
+
+.section-header p {
+    color: #003869;
+}
+
+/* Main Menu*/
+.mean-container .mean-nav ul li a.mean-expand:hover {
+    background: #003869;
+}
+
+ul.cart-list>li.total {
+    background-color: #003869;
+}
+
+/* Sections */
+.call-out:after,
+#fun-fact:after,
+#subscribe:after,
+#pricing .features:after,
+.video-section:after,
+.skill-item:after  {
+    background: #003869;    
+}
+
+
+/* Features list*/
+.features-list-item h4 {
+    color: #000;
+}
+
+.view-more:hover {
+    color: #003869;
+}
+
+.sorting-btn li a {
+    color: #003869;
+}
+
+.services-item {    
+    color: #003869;
+}
+
+.member-title {
+    color: #003869;
+}
+
+#testimonial .owl-dot {
+    background: #003869;    
+}
+
+.single-testimonial {
+    background: #003869; 
+}
+
+#pricing .prcing-head {
+    background: #003869;
+}
+
+#pricing .price {
+    color: #003869;    
+}
+
+#recent-blog .read-more-link {
+    color: #003869;    
+}
+
+.contact-us-info {
+    background: #003869;    
+}
+
+/* Service Page */
+.servicepage-item h4 {
+    color: #003869;
+    font-weight: 1000;
+    font-size: 24px;
+    padding: 5px 10px;
+}
+
+.servicepage-item p {
+    color: #003869;
+}
+
+.servicepage-item a:hover {
+    color: #003869;
+}
+
+/* Portfolio */
+.portfolio-page .content h4 {
+    color: #003869;
+}
+
+.portfolio-page .content a {
+    color: #003869;
+}
+
+.pagination a.page-link {
+    background: #003869;
+}
+
+.exclusive-content h5 {
+    color: #003869;
+}
+
+.exclusive-content i {
+    color: #003869;
+}
+
+#exclusive .owl-dot {
+    background: #003869;
+}
+
+.gallery-item figure:hover figcaption {
+    background: #003869;
+}
+
+#blog-content .post-title a {
+    color: #003869;
+}
+
+#blog-content ul.meta-info li {
+    color: #003869;
+}
+
+#blog-content ul.meta-info li a {
+    color: #003869;
+}
+
+.post-content .content {
+    color: #003869;
+}
+
+#blog-content .post-content .continue-reading {
+    color: #003869;
+}
+
+.single-blog-area .post-title {
+    color: #003869;
+}
+
+.single-blog-area ul.share-icon li a {
+    color: #003869;
+}
+
+.post-comment-area .comment-author a {
+    color: #003869;
+}
+
+.office h4 {
+    color: #003869;
+}
+
+.office ul li {
+    color: #003869;
+}
+
+#wrapper-404 .inner-content h1 {
+    color: #003869;
+}
+
+#wrapper-404 .inner-content p {
+    color: #003869;
+}
+
+/*Widget CSS */
+
+#footer-widgets,
+.widget-search input[type=button]:hover {
+    background: #003869;
+}
+
+.widget-search .search-form,
+.search-form input[type="search"]::-webkit-input-placeholder,
+#blog-content .widget-title,
+.widget-categories ul li a,
+.recent-post h6,
+ul.recent-meta-info li,
+ul.recent-meta-info li a,
+ul.tags li a,
+.widget-calender .widget-title .plus a,
+.weekdays li,
+.days li.disable,
+.days li {
+    color: #003869;
+
+}
+
+.get-in-touch input::-webkit-input-placeholder,
+.get-in-touch textarea::-webkit-input-placeholder {
+  color: #003869;    
+}
+figure {
+    width: 100%;
+}
+.subtitle {
+    margin: 6px 0;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+ul.servicecl li {
+    color: #fff;
+    font-size: 14px;
+    list-style: disc;
+    padding-bottom: 5px;
+    margin-left: 20px;
+}
+a.rubal-btn {
+    border-color: #003869 !important;
+    border-radius: 9px 0;
+    background-color: #003869;
+    color: #fff;
+    box-shadow: 4px 7px 7px 0px #00000036;
+}
+.servicepage-item div {
+    border: 1px dashed #003869;
+}

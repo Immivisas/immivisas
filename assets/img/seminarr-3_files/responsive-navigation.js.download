@@ -1,0 +1,13 @@
+$(document).ready(function() {
+var $j1 = jQuery.noConflict();
+var $navigation = $j1('#menu-main_menu');
+    
+    // Responsive nav
+    selectnav('menu-main_menu', {
+        label: 'Navigation...',
+        autoselect: false,
+        nested: true,
+        indent: '&mdash;'
+    });
+	
+});
