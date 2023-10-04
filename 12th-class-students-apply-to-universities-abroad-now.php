@@ -13,7 +13,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="demo/demo.css"> 
+	<link rel="stylesheet" href="assets/css/demo.css"> 
 
 	<!-- COLORS | CURRENTLY USED DIFFERENTLY TO SWITCH FOR DEMO. IN ORIGINAL FILE ALL COLORS AVAILABLE IN COLORS FOLDER -->
 	<link rel="stylesheet" href="assets/css/colors/default.css" title="default">
@@ -92,7 +92,7 @@
 							<br>
 							<p>Download the IVS Solutions app to apply for free to selected universities.</p>
 							<br>
-							<p>To book a consultation Call +91 9819811163, http://www.immivisas.com</p>
+							<p>To book a consultation Call 1800 1200 290, http://www.immivisas.com</p>
 							<br>
 							
                            

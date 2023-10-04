@@ -12,7 +12,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="demo/demo.css"> 
+	<link rel="stylesheet" href="assets/css/demo.css"> 
 	
 
 	<!-- COLORS | CURRENTLY USED DIFFERENTLY TO SWITCH FOR DEMO. IN ORIGINAL FILE ALL COLORS AVAILABLE IN COLORS FOLDER -->
@@ -88,7 +88,7 @@
             </div>
         </div>
 		<div class="stick-cont">
-			<div class="container mb-4">
+			<!-- <div class="container mb-4">
 				<div class="row text-lg-left text-md-center">
 					<div class="col-md-4 mb-lg-0 mb-3">
 						<div class="features-list-item wow fadeInUp" data-wow-delay="0.1s">
@@ -106,6 +106,29 @@
 						<div class="features-list-item wow fadeInUp" data-wow-delay="0.3s">
 							<span class="icon"><i class="icofont icofont-university"></i></span>
 							<a href="university-admissions.php"><h4>University Admission</h4></a>
+						</div>
+					</div>
+				</div>
+			</div> -->
+			<div class="container mb-4">
+				<div class="row text-lg-left text-md-center">
+					<div class="col-md-4 mb-lg-0 mb-3">
+						<div class="features-list-item wow fadeInUp" data-wow-delay="0.1s">
+							<span class="icon"><i class="icofont icofont-police-cap"></i></span>
+							<br>
+							<a href="#"><h4> $ 1M+ Scholarships</h4></a>
+						</div>
+					</div>
+					<div class="col-md-4 mb-md-0 mb-3">
+						<div class="features-list-item wow fadeInUp" data-wow-delay="0.2s">
+							<span class="icon"><i class="icofont icofont-visa-alt"></i></span>
+							<a href="#"><h4>10,000+ Students Counselled</h4></a>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="features-list-item wow fadeInUp" data-wow-delay="0.3s">
+							<span class="icon"><i class="icofont icofont-university"></i></span>
+							<a href="#"><h4>5000+ offers from Top Universities</h4></a>
 						</div>
 					</div>
 				</div>
@@ -231,7 +254,7 @@
 					</div>
 					
 					<div class="col-lg-4 no-padding">
-						<div class="gallery-load">
+						<!-- <div class="gallery-load">
 							<div class="gallery-item">
 								<figure class="no-margin">
 									<img src="assets/img/page/housing.jpg" alt="">
@@ -252,17 +275,17 @@
 								<p class="wt-text2">Investors are not required too actively manage their investment on a daily basis, which gives them the freedom to explore other interests.</p>
 								<a class="b-color" href="immigration.php">Read More <i class="fa fa-angle-double-right"></i></a>
 							</div>
-						</div>
+						</div> -->
 						<div class="gallery-load">
 							<div class="gallery-item">
 								<figure class="no-margin">
 									<img src="assets/img/page/foreign.jpg" alt="">
 									<figcaption>
 										<div class="inner-content">
-											<h4>Foreign Business</h4>
-											<p>Buying a property or a business in a foreign land is a complicated process. Our expertise in foreign properties and businesses...</p>
+											<h4>University Admissions</h4>
+											<p>IVS Solutions is an expert in getting its student in the top 100 Universities in the world. We understand how important it is for a student to go to a good university in order to succeed in life...</p>
 										</div>
-										<a href="foreign-business.php" class="gallery-popup mfp-image"><i class="icofont icofont-search-alt-1"></i></a>
+										<a href="university-admissions.php" class="gallery-popup mfp-image"><i class="icofont icofont-search-alt-1"></i></a>
 									</figcaption>
 								</figure>
 							</div>
@@ -275,6 +298,31 @@
 								<a class="b-color" href="university-admissions.php">Read More <i class="fa fa-angle-double-right"></i></a>
 							</div>
 						</div>
+						<div class="gallery-load">
+							<div class="gallery-item">
+								<figure class="no-margin">
+									<img src="assets/img/page/housing.jpg" alt="">
+									<figcaption>
+										<div class="inner-content">
+											<h4>Career Counseling</h4>
+												<p>College, career guidance and counselling programs at IVS Solutions aim to help students make
+								more informed and better...</p>
+										</div>
+										<a href="career-counseling.php" class="gallery-popup mfp-image"><i class="icofont icofont-search-alt-1"></i></a>
+									</figcaption>
+								</figure>
+							</div>
+						</div>
+						<div class="">
+							<div class="bgnewds2">
+								<h4 class="ft-m-t">Application, Essay & SOP</h4>
+								<hr style="margin: 10px 0px !important;opacity: 1 !important;color: #fff !important;width: 10%;border:1px solid #000 !important;">
+								<p class="wt-text2">We will help to edit your applications on the shortlisted ten universities and brainstorm
+                            ideas for your essays, which are...</p>
+								<a class="b-color" href="application-essay-sop.php">Read More <i class="fa fa-angle-double-right"></i></a>
+							</div>
+						</div>
+						
 					</div>
 					<div class="col-lg-4 newdiv2">
 						<p>&nbsp;</p>
@@ -490,7 +538,7 @@
                             </li>
                             <li class="contact-phone">
                                 
-                                <p>TEL: <a href="tel:+91 9819811163" style="color: #ffc800;">+91 9819811163</a>
+                                <p>TEL: <a href="tel:1800 1200 290" style="color: #ffc800;">1800 1200 290</a>
                                     </p>
                             </li>
                         </ul>

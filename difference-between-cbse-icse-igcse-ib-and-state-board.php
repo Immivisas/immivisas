@@ -13,7 +13,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="demo/demo.css"> 
+	<link rel="stylesheet" href="assets/css/demo.css"> 
 
 	<!-- COLORS | CURRENTLY USED DIFFERENTLY TO SWITCH FOR DEMO. IN ORIGINAL FILE ALL COLORS AVAILABLE IN COLORS FOLDER -->
 	<link rel="stylesheet" href="assets/css/colors/default.css" title="default">
@@ -195,7 +195,7 @@ Pros</p>
 <p>3. Might Lack basic facilities.</p>
 <p>4. Quality of Content (No Errors/ No Printing Mistakes) may be questionable.</p>
 <p>Article by Sridhar Manjula.</p>
-<p>For student career and education counseling contact IVS Solutions: +91 9819811163, email: immivisas@gmail.com.
+<p>For student career and education counseling contact IVS Solutions: 1800 1200 290, email: immivisas@gmail.com.
 							
                         </div>
                         <div class="tag-share">

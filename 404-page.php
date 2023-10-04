@@ -12,7 +12,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="demo/demo.css"> 
+	<link rel="stylesheet" href="assets/css/demo.css"> 
 
 	<!-- COLORS | CURRENTLY USED DIFFERENTLY TO SWITCH FOR DEMO. IN ORIGINAL FILE ALL COLORS AVAILABLE IN COLORS FOLDER -->
 	<link rel="stylesheet" href="assets/css/colors/default.css" title="default">

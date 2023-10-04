@@ -13,7 +13,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="demo/demo.css"> 
+	<link rel="stylesheet" href="assets/css/demo.css"> 
 
 	<!-- COLORS | CURRENTLY USED DIFFERENTLY TO SWITCH FOR DEMO. IN ORIGINAL FILE ALL COLORS AVAILABLE IN COLORS FOLDER -->
 	<link rel="stylesheet" href="assets/css/colors/default.css" title="default">
@@ -86,7 +86,7 @@
 <li>Dedicated key accounts manager at your disposal to get resolution for all your queries</li><br>
 <li>Reduced setup cost as a result of being part of a larger group</li><br>
 </ul>
-<p>For more details regarding our franchise Contact: immivisas@gmail.com or Call +91 9819811163</p><br>
+<p>For more details regarding our franchise Contact: immivisas@gmail.com or Call 1800 1200 290</p><br>
 <p>All the best !!</p>
  <a href="#"class="live-chat boxed-btn rubal-btn-modal " data-toggle="modal" data-target="#myModal">If You are Interested Click Here</a>
 

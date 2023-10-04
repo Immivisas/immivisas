@@ -13,7 +13,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <link rel="stylesheet" href="demo/demo.css">
+    <link rel="stylesheet" href="assets/css/demo.css">
 
     <!-- COLORS | CURRENTLY USED DIFFERENTLY TO SWITCH FOR DEMO. IN ORIGINAL FILE ALL COLORS AVAILABLE IN COLORS FOLDER -->
     <link rel="stylesheet" href="assets/css/colors/default.css" title="default">
@@ -91,7 +91,7 @@
                             <a href="educational-counseling.php" class="rubal-btn">Learn More </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mb-5">
+                <!-- <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mb-5">
                     <div class="servicepage-item">
                         <div class="">
                            <img src="assets/img/services/flat-travel.png" alt="">
@@ -102,8 +102,8 @@
                              <a href="travel-assistance.php" class="rubal-btn">Learn More </a>
 
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mb-5">
+                </div> -->
+                <!-- <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mb-5">
                     <div class="servicepage-item">
                         <div class="">
                             <img src="assets/img/services/immigration.png" alt="">
@@ -113,7 +113,7 @@
                             their investment on a daily...</p>
                              <a href="immigration.php" class="rubal-btn">Learn More </a>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mb-5">
                     <div class="servicepage-item">
                         <div class="">
@@ -147,7 +147,7 @@
                             <a href="university-admissions.php" class="rubal-btn">Learn More </a>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mb-5 ">
+                <!-- <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mb-5 ">
                     <div class="servicepage-item">
                         <div class="">
                             <img src="assets/img/services/foreign-business.png" alt="">
@@ -157,7 +157,7 @@
                             foreign properties and businesses will help you to make the right choice for your investment and &nbsp;future growth.</p>
                              <a href="foreign-business.php" class="rubal-btn">Learn More </a>
                     </div>
-                </div>
+                </div> -->
 				<div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mb-5 ">
                     <div class="servicepage-item">
                         <div class="">

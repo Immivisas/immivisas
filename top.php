@@ -84,8 +84,11 @@
 					<a href="mailto:immivisas@gmail.com"><i class="fa fa-envelope-o mr-2"></i>Quick Email</a>
 				</div>
 				<div class="phone d-inline-block">
-					<a href="tel:9819811163"><i class="fa fa-phone mr-2"></i> +91 9819811163</a>
+					<a href="tel: 1800 1200 290"><i class="fa fa-phone mr-2"></i>India: 1800 1200 290</a>
 				</div>
+                <!-- <div class="phone d-inline-block">
+					<a href="tel: 805 424 6964"><i class="fa fa-phone mr-2"></i>USA & Canada: 805 424 6964</a>
+				</div> -->
 			</div>
 		</div>
 	</div>

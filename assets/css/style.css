@@ -501,7 +501,8 @@ img {
 }
 
 .email:after,
-.header-social:after {
+.header-social:after,
+.phone:after {
     position: absolute;
     content: '';
     top: 2px;

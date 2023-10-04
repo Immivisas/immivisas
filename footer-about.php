@@ -111,7 +111,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text-center">
-                        <p>© 2021 All Rights Reserved - Designed and Developed by <a style="color:#fff; text-decoration:underline;" href="http://brandshow.in/" target="_blank">BrandShow</a></p>
+                        <p>© 2021 All Rights Reserved -  <a style="color:#fff; text-decoration:underline;" href="https://immivisas.com/" target="_blank">IVS Solutions</a></p>
                         <a href="#" class="scrollup"><i class="fa fa-arrow-up"></i></a>
                     </div>
                 </div>

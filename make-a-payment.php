@@ -1,4 +1,6 @@
-
+<?php 
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,7 +66,7 @@
                 <div class="col-sm-12">
                     <p style="font-size:16px; margin-bottom:0px;">Thank you for considering IVS Solutions. Fill in the billing information.</p>
                	    <div class="paymentForm paypalform"><br><br>
-                        <form name="_xclick" action="https://www.paypal.com/us/cgi-bin/webscr" method="post" onsubmit="return validateForm()">
+                        <form name="_xclick" action="" method="post" class='pay' onsubmit="return validateForm()">
                             <input type="hidden" name="cmd" value="_xclick" />
                             <input type="hidden" name="business" value="ivs@immivisas.com" />
                             <input id="CurrecnyCode" type="hidden" name="currency_code" value="INR" />
@@ -79,7 +81,7 @@
                             <div class="form-group cntrow">
                                 <p class="col-sm-3">Phone</p>
                                 <div class="col-sm-9">
-                                    <input type="text" name="contact_phone" value="" placeholder="Phone" />
+                                    <input type="text"   maxlength="10" minlength="10" onkeypress="return isNumberKey(event)"  name="contact_phone" value="" placeholder="Phone" />
                                 </div>
                             </div>
                             <div class="form-group cntrow">
@@ -91,7 +93,7 @@
                             <div class="form-group cntrow">
                                 <p class="col-sm-9">Select Currency</p>
                                 <div class="col-sm-9">
-                                    <select id="CurrencyName" name="CurrencyName" style="width: 100%;border-radius: 10px;margin-left: -4px;padding: 5px;background: #f5f5f5;border: #ccc solid 1px;">
+                                    <select id="CurrencyName" name="CurrencyName" class='CurrencyNamer' style="width: 100%;border-radius: 10px;margin-left: -4px;padding: 5px;background: #f5f5f5;border: #ccc solid 1px;">
                                         <option value="INR,en_IN">INR- Indian Rupee</option>
                                         <option value="USD,en_US">USD- United States Dollar</option>
                                         <option value="GBP,en_GB">GBP- Great Britain Pound</option>
@@ -158,6 +160,12 @@
                             <img src="assets/img/paypallogo.jpg" alt="Paytm"> 
                         </div>
                     </div>
+
+                    <div class="col-sm-12">
+                            <div class="paytmpg" style="margin-top:20px;">
+                                <img src="assets/img/paytmlogo1.jpg" alt="Paytm"> 
+                            </div>
+                        </div>
                 </div>
             </div>
         </div>
@@ -197,10 +205,44 @@
 
     <!-- Custom Script -->
     <script src="assets/js/custom.js"></script>
-	
-	
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+     $(document).ready(function(){
+  $('.pay').on('submit',function()
+ {
+    // alert('test');
+    $subcat  = $('.CurrencyNamer').val();
+    // alert($subcat);
+    if($subcat  == 'INR,en_IN')
+    {
+        
+            $('.pay').attr('action','payment/pgRedirect.php')
+
+    }
+    else
+    {
+
+        $('.pay').attr('action','https://www.paypal.com/us/cgi-bin/webscr')
+    }
+
+});
+
+});
+
+</script>
+<script>
+function isNumberKey(evt){
+    var charCode = (evt.which) ? evt.which : evt.keyCode
+    if (charCode > 31 && (charCode < 48 || charCode > 57))
+        return false;
+    return true;
+}
+</script>
 	<script id="dsq-count-scr" src="https://immivisas-com.disqus.com/count.js" async></script>
-	<?php include('footer-script.php'); ?>
+	<?php include('footer-script-for-payment-page.php'); ?>
+
+
+
 </body>
 
 </html>

@@ -14,7 +14,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="demo/demo.css"> 
+	<link rel="stylesheet" href="assets/css/demo.css"> 
 
 	<!-- COLORS | CURRENTLY USED DIFFERENTLY TO SWITCH FOR DEMO. IN ORIGINAL FILE ALL COLORS AVAILABLE IN COLORS FOLDER -->
 	<link rel="stylesheet" href="assets/css/colors/default.css" title="default">
@@ -93,8 +93,8 @@
                                     </p>
                             </li>
                             <li class="contact-phone">
-                                <p><a href="tel:+91 9819811163" style="color: #ffc800;">+91 9819811163</a>
-                                    </p>
+                                <p><a href="tel:1800 1200 290" style="color: #ffc800;">1800 1200 290 (India)</a></p>
+                                <!-- <p><a href="tel:805 424 6964" style="color: #ffc800;">805 424 6964 (USA & Canada)</a></p> -->
                             </li>
                         </ul>
                        <a href="#"class="live-chat boxed-btn rubal-btn-modal" data-toggle="modal" data-target="#myModal"><i class="fa fa-book"></i> Ask a Counselor</a>

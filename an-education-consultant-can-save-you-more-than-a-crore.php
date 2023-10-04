@@ -13,7 +13,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
-	<link rel="stylesheet" href="demo/demo.css"> 
+	<link rel="stylesheet" href="assets/css/demo.css"> 
 
 	<!-- COLORS | CURRENTLY USED DIFFERENTLY TO SWITCH FOR DEMO. IN ORIGINAL FILE ALL COLORS AVAILABLE IN COLORS FOLDER -->
 	<link rel="stylesheet" href="assets/css/colors/default.css" title="default">
@@ -208,7 +208,7 @@
 <p>Says Sachin Sharma of IVS Solutions, “Tuition fees in top colleges are around 30 lakhs per annum. For a four year Bachelors degree in USA, parents spend almost a crore and have to often take a student loan for their child. They assume that their child will get a job once he graduates. However the reality is quite different. Factors like visa rules or the fact that the desired companies might not be hiring from the university your child is studying in. Courses like fashion arts and media have jobs only in specific regions, are geographically oriented and need to be done in the right city and colleges. If these factors and more are not considered it will be hard to pay back the student loan worth a crore.”</p><br>
 <p>IVS Solutions specializes in &nbsp;getting students into top 100 universities worldwide and findingscholarship funding. Each case is examined on its own to create a distinct, top notch application. The brand also specializes in visas and immigration which reduces the risk of a wrong choice by having a thorough understanding of student and parent criteria and rightly advising them towards a path of success.</p><br>
 <p>Where: IVS Solutions</p><br>
-<p>Call : 91 9819811163</p><br>
+<p>Call : 91  1800 1200 290</p><br>
 <p><a href="http://www.immivisas.com/">www.immivisas.com</a></p><br>
                            
 							
